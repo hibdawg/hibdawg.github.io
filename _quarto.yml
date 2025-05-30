@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "hibdawg.github.io"
+  title: "Hibah Ganie"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - project.qmd
+      - mywork.qmd
+      - resume.qmd
+      
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
