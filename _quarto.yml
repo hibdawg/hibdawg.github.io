@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Hibah Ganie"
   navbar:
-    left:
+    title: "Hibah Ganie"
+    left: 
       - href: index.qmd
         text: Home
-      - about.qmd
-      - project.qmd
-      - mywork.qmd
-      - resume.qmd
-      
+      - href: mywork.qmd
+        text: My Work
+      - href: project.qmd
+        text: My Project
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
