@@ -32,6 +32,34 @@
     "href": "mywork.html#fa-film-letterboxd",
     "title": "Movies",
     "section": " Letterboxd",
-    "text": "Letterboxd\nDespite being an average movie viewer, I enjoy writing my thought down evertime I watch a movie. I have been using letterboxd since highschool to monument every single movie I have watched. Take a look!\nLetterboxd:\n\nLoading…"
+    "text": "Letterboxd\nDespite being an average movie viewer, I enjoy writing my thoughts down every time I watch a movie. I have been using letterboxd since highschool to monument every single movie I have watched. Take a look!\nLetterboxd:\n\nLoading…"
+  },
+  {
+    "objectID": "project.html#fa-science-undergraduate-research",
+    "href": "project.html#fa-science-undergraduate-research",
+    "title": "My Project",
+    "section": " Undergraduate Research",
+    "text": "Undergraduate Research"
+  },
+  {
+    "objectID": "project.html#fa-microscope-undergraduate-research",
+    "href": "project.html#fa-microscope-undergraduate-research",
+    "title": "My Project",
+    "section": "{{< fa microscope>}} Undergraduate Research",
+    "text": "{{< fa microscope>}} Undergraduate Research"
+  },
+  {
+    "objectID": "project.html#fa-film-my-favorite-four",
+    "href": "project.html#fa-film-my-favorite-four",
+    "title": "My Project",
+    "section": "##  My favorite Four",
+    "text": "##  My favorite Four"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Undergraduate Research\nI am passionate about conservation and spatial science! Here is some of the research I have conducted during my time at UCSB.\n\n\n\n\nSuitability Analysis: Addressing HIV Treatment and Testing Needs in Los Angeles County, Spring 2024. Recipient of Runner up for Best Visual and Runner up Best Overall\n\n\n\n\n\nEvaluating Rapid Response Devices for Island Biosecurity, Summer 2024\n\n\n\n\n\nGender Differences In Running, Winter 2025\n\n\n\n\n\nShedding Light on Campus: Improving Student Safety and Energy Efficiency through Light Pollution Analysis, Spring 2023"
   }
 ]

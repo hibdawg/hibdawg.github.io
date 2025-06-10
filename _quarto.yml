@@ -15,7 +15,7 @@ website:
       - href: mywork.qmd
         text: What Im Watching
       - href: project.qmd
-        text: My Project
+        text: Research Projects
       - href: resume.qmd
         text: Resume
 

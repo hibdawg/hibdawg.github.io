@@ -27,7 +27,7 @@ description="10 Things I hate about You"}
 
 ## {{< fa film >}} Letterboxd
 
- Despite being an average movie viewer, I enjoy writing my thought down evertime I watch a movie. I have been using letterboxd since highschool to monument every single movie I have watched. Take a look!
+Despite being an average movie viewer, I enjoy writing my thoughts down every time I watch a movie. I have been using letterboxd since highschool to monument every single movie I have watched. Take a look!
 
 [Letterboxd](https://letterboxd.com/hibahganie/):
 

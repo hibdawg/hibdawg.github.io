@@ -1,4 +1,20 @@
 ---
-title: "My Project"
+title: "My Projects"
+toc: False
 ---
 
+------------------------------------------------------------------------
+
+{{< fa microscope >}} Undergraduate Research
+
+I am passionate about conservation and spatial science! Here is some of the research I have conducted during my time at UCSB.
+
+------------------------------------------------------------------------
+
+![Suitability Analysis: Addressing HIV Treatment and Testing Needs in Los Angeles County, Spring 2024. Recipient of Runner up for Best Visual and Runner up Best Overall](research/176.pdf){fig-align="center" width="100%" height=750px}
+
+![Evaluating Rapid Response Devices for Island Biosecurity, Summer 2024](research/BELPoster.pdf){fig-align="center" width="70%" height=700px}
+
+![Gender Differences In Running, Winter 2025](research/Gender.pdf){fig-align="center" width="70%" height=700px}
+
+![Shedding Light on Campus: Improving Student Safety and Energy Efficiency through Light Pollution Analysis, Spring 2023](research/lightpollution.pdf){fig-align="center" width="100%" height=750px}
