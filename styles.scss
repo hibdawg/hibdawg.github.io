@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+// Colors
+$dpurple: #502688;
+$mpurple: #8F61DB;
+$pink: #EDBBCE;
+$cream: #FAF6F9;
+$almond: #EFDCCE;
+$pigment-blue: #A5C3E2;
+$salmon: #E39699;
+$white: #FFFFFF;
+
+// Base document colors
+$navbar-bg: $salmon; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $mpurple; // highlight color when hovering over navbar links
+$body-bg: $almond; // page background
+$body-color: $dpurple; // page text
+$footer-bg: $cream; // footer
+$link-color: $salmon; // hyperlinks
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $dpurple; // inline code text color

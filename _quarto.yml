@@ -3,8 +3,12 @@ project:
   output-dir: docs
 
 website:
+  title: "Hibah Ganie"
+  favicon: pics/logo.png
   navbar:
-    title: "Hibah Ganie"
+    title: false # override printing webiste title  in navbar
+    logo: pics/logo.png
+    logo-alt: "Hibah's Logo"
     left: 
       - href: index.qmd
         text: Home
@@ -17,10 +21,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: styles.scss
     toc: true
     page-layout: full
 
-editor: visual
 
