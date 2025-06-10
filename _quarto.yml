@@ -13,7 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - href: mywork.qmd
-        text: My Work
+        text: What Im Watching
       - href: project.qmd
         text: My Project
       - href: resume.qmd
@@ -22,6 +22,7 @@ website:
 format:
   html:
     theme: styles.scss
+    mainfont: Rubik
     toc: true
     page-layout: full
 

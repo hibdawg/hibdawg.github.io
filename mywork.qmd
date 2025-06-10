@@ -1,4 +1,46 @@
 ---
-title: "Independent Projects"
+title: "Movies"
+toc: false
 ---
 
+## {{< fa film >}} My favorite Four
+
+
+
+------------------------------------------------------------------------
+
+One of my favorite pastimes is watching movies! Here are my favorite four movies.
+
+::: {layout="[[1, 1, 1, 1]]"} 
+![](pics/Nanpan.jpg){group="fav"
+description="Nanban"}
+
+![](pics/mono.jpg){group="fav"
+description="Princess Mononoke"}
+
+![](pics/ff.jpg){group="fav"
+description="Fantastic Mr.Fox"}
+
+![](pics/ihate.jpg){group="fav"
+description="10 Things I hate about You"}
+:::
+
+## {{< fa film >}} Letterboxd
+
+ Despite being an average movie viewer, I enjoy writing my thought down evertime I watch a movie. I have been using letterboxd since highschool to monument every single movie I have watched. Take a look!
+
+[Letterboxd](https://letterboxd.com/hibahganie/):
+
+::: {#letterboxd-embed-wrapper-tc .my-css-class}
+Loading...
+:::
+
+```{=html}
+<script>
+fetch('https://lb-embed-content.bokonon.dev?username=hibahganie')
+  .then(response => response.text())
+  .then(data => {
+    document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
+  });
+</script>
+```
