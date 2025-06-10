@@ -1,3 +1,8 @@
 ---
-title: "Resume"
+title: "My Resume"
+toc: False
 ---
+
+------------------------------------------------------------------------
+
+![Resume](docs/resumedoc/Ganie_Resume.pdf){fig-align="center" width="100%" height=750px}
